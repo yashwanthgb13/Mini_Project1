@@ -1,2 +1,3 @@
 # Mini_Project1
-this is my miniproejct
+This is my Mini_Project
+#Author
